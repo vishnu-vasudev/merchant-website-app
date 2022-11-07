@@ -1,0 +1,5 @@
+{
+  "name": "merchant_website_app",
+  "displayName": "merchant_website_app",
+  "plugins": ["react-native-compressor"]
+}
